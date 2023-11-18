@@ -1,6 +1,6 @@
 # Coffee Shop - Flask Practice
 
-For this assessment, you'll be working with a Coffee Shop book domain.
+For this assessment, you'll be working with a Coffee Shop domain.
 
 In this repo:
 
